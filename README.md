@@ -1,0 +1,2 @@
+# Application-of-Logistic-Regression-in-Prediction-of-Coronary-Heart-Disease
+This repository contains my Master’s capstone project titled “Application of Logistic Regression in Prediction of Coronary Heart Disease.” This project applies statistical modeling to a real-world healthcare problem using logistic regression, aiming to predict the likelihood of coronary heart disease based on patient data.
